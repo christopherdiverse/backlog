@@ -1,4 +1,4 @@
-# Evento Fácil: A Solução Completa para Eventos Profissionais
+# Evento Fácil
 
 Imagine organizar uma festa de aniversário, mas em vez de uma festa, são dezenas de eventos empresariais como workshops, palestras e sessões de networking. Agora, imagine contar com uma empresa especializada para simplificar tudo. O **Evento Fácil** é exatamente isso: um assistente digital completo para organizadores de eventos profissionais.
 
